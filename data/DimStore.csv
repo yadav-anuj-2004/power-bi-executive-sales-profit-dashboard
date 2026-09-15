@@ -1,0 +1,121 @@
+StoreKey,StoreID,StoreName,StoreType,GeographyKey,StoreSizeSqFt,OpeningDate,Region,State,City
+1,XM1000,Xquizeet Ludhiana Store 01,Supermarket,7,26099,2024-06-26,North,Punjab,Ludhiana
+2,XM1001,Xquizeet Coimbatore Store 02,Hypermarket,20,10108,2018-09-18,South,Tamil Nadu,Coimbatore
+3,XM1002,Xquizeet Raipur Store 03,Flagship,29,17271,2024-12-11,Central,Chhattisgarh,Raipur
+4,XM1003,Xquizeet Indore Store 04,Supermarket,15,12735,2021-08-14,West,Madhya Pradesh,Indore
+5,XM1004,Xquizeet Nagpur Store 05,Supermarket,11,14068,2017-06-04,West,Maharashtra,Nagpur
+6,XM1005,Xquizeet Jaipur Store 06,Supermarket,8,2949,2023-12-13,North,Rajasthan,Jaipur
+7,XM1006,Xquizeet Raipur Store 07,Flagship,29,6323,2020-11-10,Central,Chhattisgarh,Raipur
+8,XM1007,Xquizeet Hyderabad Store 08,Hypermarket,21,15489,2019-02-24,South,Telangana,Hyderabad
+9,XM1008,Xquizeet Ludhiana Store 09,Express,7,21832,2017-09-03,North,Punjab,Ludhiana
+10,XM1009,Xquizeet Bhubaneswar Store 10,Tier-2 Store,26,20392,2021-02-09,East,Odisha,Bhubaneswar
+11,XM1010,Xquizeet Chennai Store 11,Supermarket,19,8058,2021-09-02,South,Tamil Nadu,Chennai
+12,XM1011,Xquizeet Kochi Store 12,Tier-2 Store,23,11148,2024-09-07,South,Kerala,Kochi
+13,XM1012,Xquizeet Nagpur Store 13,Express,11,8300,2018-06-22,West,Maharashtra,Nagpur
+14,XM1013,Xquizeet Nagpur Store 14,Tier-2 Store,11,20454,2022-03-06,West,Maharashtra,Nagpur
+15,XM1014,Xquizeet Thiruvananthapuram Store 15,Tier-2 Store,24,10774,2022-01-16,South,Kerala,Thiruvananthapuram
+16,XM1015,Xquizeet Hyderabad Store 16,Supermarket,21,16051,2019-07-10,South,Telangana,Hyderabad
+17,XM1016,Xquizeet Noida Store 17,Hypermarket,4,19539,2023-09-22,North,Uttar Pradesh,Noida
+18,XM1017,Xquizeet Jaipur Store 18,Supermarket,8,2054,2018-06-09,North,Rajasthan,Jaipur
+19,XM1018,Xquizeet Thiruvananthapuram Store 19,Express,24,5399,2024-11-15,South,Kerala,Thiruvananthapuram
+20,XM1019,Xquizeet Kanpur Store 20,Express,3,7195,2021-03-10,North,Uttar Pradesh,Kanpur
+21,XM1020,Xquizeet Vijayawada Store 21,Supermarket,22,23481,2017-02-05,South,Andhra Pradesh,Vijayawada
+22,XM1021,Xquizeet Hyderabad Store 22,Supermarket,21,27172,2018-11-16,South,Telangana,Hyderabad
+23,XM1022,Xquizeet Lucknow Store 23,Supermarket,2,13083,2017-01-20,North,Uttar Pradesh,Lucknow
+24,XM1023,Xquizeet Thiruvananthapuram Store 24,Supermarket,24,13774,2023-06-27,South,Kerala,Thiruvananthapuram
+25,XM1024,Xquizeet Ahmedabad Store 25,Outlet,12,18932,2024-01-04,West,Gujarat,Ahmedabad
+26,XM1025,Xquizeet Gurugram Store 26,Tier-2 Store,6,6439,2018-02-04,North,Haryana,Gurugram
+27,XM1026,Xquizeet Lucknow Store 27,Express,2,10537,2024-05-25,North,Uttar Pradesh,Lucknow
+28,XM1027,Xquizeet Ranchi Store 28,Supermarket,28,21483,2019-08-30,East,Jharkhand,Ranchi
+29,XM1028,Xquizeet Hyderabad Store 29,Supermarket,21,25729,2022-03-22,South,Telangana,Hyderabad
+30,XM1029,Xquizeet Delhi Store 30,Flagship,1,16486,2023-11-24,North,Delhi,Delhi
+31,XM1030,Xquizeet Ahmedabad Store 31,Express,12,3457,2020-03-12,West,Gujarat,Ahmedabad
+32,XM1031,Xquizeet Bhubaneswar Store 32,Hypermarket,26,6492,2020-01-21,East,Odisha,Bhubaneswar
+33,XM1032,Xquizeet Vijayawada Store 33,Supermarket,22,17382,2019-04-14,South,Andhra Pradesh,Vijayawada
+34,XM1033,Xquizeet Raipur Store 34,Hypermarket,29,3100,2021-12-29,Central,Chhattisgarh,Raipur
+35,XM1034,Xquizeet Ahmedabad Store 35,Tier-2 Store,12,15072,2024-08-06,West,Gujarat,Ahmedabad
+36,XM1035,Xquizeet Kolkata Store 36,Supermarket,25,3861,2022-06-06,East,West Bengal,Kolkata
+37,XM1036,Xquizeet Bengaluru Store 37,Supermarket,17,15107,2019-05-04,South,Karnataka,Bengaluru
+38,XM1037,Xquizeet Patna Store 38,Express,27,22257,2017-02-20,East,Bihar,Patna
+39,XM1038,Xquizeet Patna Store 39,Hypermarket,27,21717,2018-07-29,East,Bihar,Patna
+40,XM1039,Xquizeet Pune Store 40,Supermarket,10,12869,2020-02-23,West,Maharashtra,Pune
+41,XM1040,Xquizeet Ranchi Store 41,Supermarket,28,3769,2023-01-07,East,Jharkhand,Ranchi
+42,XM1041,Xquizeet Ranchi Store 42,Hypermarket,28,18240,2023-06-20,East,Jharkhand,Ranchi
+43,XM1042,Xquizeet Bhopal Store 43,Outlet,16,14892,2024-03-02,West,Madhya Pradesh,Bhopal
+44,XM1043,Xquizeet Indore Store 44,Supermarket,15,25636,2023-06-11,West,Madhya Pradesh,Indore
+45,XM1044,Xquizeet Indore Store 45,Express,15,6599,2021-09-12,West,Madhya Pradesh,Indore
+46,XM1045,Xquizeet Chennai Store 46,Tier-2 Store,19,24228,2018-11-13,South,Tamil Nadu,Chennai
+47,XM1046,Xquizeet Ahmedabad Store 47,Express,12,21777,2019-04-18,West,Gujarat,Ahmedabad
+48,XM1047,Xquizeet Kochi Store 48,Supermarket,23,26776,2019-12-14,South,Kerala,Kochi
+49,XM1048,Xquizeet Coimbatore Store 49,Hypermarket,20,22195,2023-10-28,South,Tamil Nadu,Coimbatore
+50,XM1049,Xquizeet Kolkata Store 50,Supermarket,25,4887,2024-04-14,East,West Bengal,Kolkata
+51,XM1050,Xquizeet Kanpur Store 51,Hypermarket,3,27003,2023-05-01,North,Uttar Pradesh,Kanpur
+52,XM1051,Xquizeet Varanasi Store 52,Supermarket,5,23299,2021-05-15,North,Uttar Pradesh,Varanasi
+53,XM1052,Xquizeet Chennai Store 53,Tier-2 Store,19,14346,2017-01-05,South,Tamil Nadu,Chennai
+54,XM1053,Xquizeet Ludhiana Store 54,Supermarket,7,2118,2020-02-01,North,Punjab,Ludhiana
+55,XM1054,Xquizeet Hyderabad Store 55,Hypermarket,21,21780,2020-05-04,South,Telangana,Hyderabad
+56,XM1055,Xquizeet Mumbai Store 56,Supermarket,9,5635,2019-02-13,West,Maharashtra,Mumbai
+57,XM1056,Xquizeet Ludhiana Store 57,Tier-2 Store,7,12196,2019-05-27,North,Punjab,Ludhiana
+58,XM1057,Xquizeet Mysuru Store 58,Supermarket,18,5455,2019-09-19,South,Karnataka,Mysuru
+59,XM1058,Xquizeet Noida Store 59,Express,4,10046,2017-02-16,North,Uttar Pradesh,Noida
+60,XM1059,Xquizeet Kolkata Store 60,Flagship,25,8950,2024-12-24,East,West Bengal,Kolkata
+61,XM1060,Xquizeet Ranchi Store 61,Supermarket,28,13657,2024-11-10,East,Jharkhand,Ranchi
+62,XM1061,Xquizeet Panaji Store 62,Supermarket,14,20730,2024-05-27,West,Goa,Panaji
+63,XM1062,Xquizeet Mysuru Store 63,Hypermarket,18,18329,2017-09-26,South,Karnataka,Mysuru
+64,XM1063,Xquizeet Bhubaneswar Store 64,Supermarket,26,7793,2018-01-05,East,Odisha,Bhubaneswar
+65,XM1064,Xquizeet Mumbai Store 65,Supermarket,9,18977,2018-09-28,West,Maharashtra,Mumbai
+66,XM1065,Xquizeet Bhubaneswar Store 66,Express,26,15273,2020-02-04,East,Odisha,Bhubaneswar
+67,XM1066,Xquizeet Hyderabad Store 67,Supermarket,21,15465,2021-08-21,South,Telangana,Hyderabad
+68,XM1067,Xquizeet Lucknow Store 68,Supermarket,2,4336,2021-08-10,North,Uttar Pradesh,Lucknow
+69,XM1068,Xquizeet Coimbatore Store 69,Hypermarket,20,9654,2018-10-19,South,Tamil Nadu,Coimbatore
+70,XM1069,Xquizeet Ranchi Store 70,Hypermarket,28,11577,2017-04-30,East,Jharkhand,Ranchi
+71,XM1070,Xquizeet Indore Store 71,Supermarket,15,6795,2019-04-11,West,Madhya Pradesh,Indore
+72,XM1071,Xquizeet Ranchi Store 72,Supermarket,28,20638,2021-12-16,East,Jharkhand,Ranchi
+73,XM1072,Xquizeet Ludhiana Store 73,Flagship,7,17509,2019-12-18,North,Punjab,Ludhiana
+74,XM1073,Xquizeet Ahmedabad Store 74,Supermarket,12,16536,2022-05-29,West,Gujarat,Ahmedabad
+75,XM1074,Xquizeet Raipur Store 75,Supermarket,29,22177,2020-10-01,Central,Chhattisgarh,Raipur
+76,XM1075,Xquizeet Jaipur Store 76,Express,8,7922,2019-01-11,North,Rajasthan,Jaipur
+77,XM1076,Xquizeet Indore Store 77,Express,15,10051,2017-04-27,West,Madhya Pradesh,Indore
+78,XM1077,Xquizeet Kanpur Store 78,Hypermarket,3,6500,2022-01-28,North,Uttar Pradesh,Kanpur
+79,XM1078,Xquizeet Panaji Store 79,Outlet,14,8896,2024-10-09,West,Goa,Panaji
+80,XM1079,Xquizeet Bengaluru Store 80,Supermarket,17,9907,2020-02-25,South,Karnataka,Bengaluru
+81,XM1080,Xquizeet Noida Store 81,Outlet,4,13846,2022-04-16,North,Uttar Pradesh,Noida
+82,XM1081,Xquizeet Mysuru Store 82,Supermarket,18,24967,2019-10-10,South,Karnataka,Mysuru
+83,XM1082,Xquizeet Jaipur Store 83,Flagship,8,5542,2021-07-23,North,Rajasthan,Jaipur
+84,XM1083,Xquizeet Noida Store 84,Supermarket,4,12212,2019-12-18,North,Uttar Pradesh,Noida
+85,XM1084,Xquizeet Lucknow Store 85,Express,2,8579,2018-09-26,North,Uttar Pradesh,Lucknow
+86,XM1085,Xquizeet Gurugram Store 86,Express,6,9108,2018-05-28,North,Haryana,Gurugram
+87,XM1086,Xquizeet Vijayawada Store 87,Supermarket,22,24623,2024-10-20,South,Andhra Pradesh,Vijayawada
+88,XM1087,Xquizeet Pune Store 88,Supermarket,10,26719,2020-01-25,West,Maharashtra,Pune
+89,XM1088,Xquizeet Noida Store 89,Supermarket,4,19489,2020-02-16,North,Uttar Pradesh,Noida
+90,XM1089,Xquizeet Vijayawada Store 90,Supermarket,22,11616,2018-07-14,South,Andhra Pradesh,Vijayawada
+91,XM1090,Xquizeet Raipur Store 91,Hypermarket,29,18353,2018-05-03,Central,Chhattisgarh,Raipur
+92,XM1091,Xquizeet Mysuru Store 92,Supermarket,18,4344,2019-06-16,South,Karnataka,Mysuru
+93,XM1092,Xquizeet Bhubaneswar Store 93,Supermarket,26,11657,2020-04-27,East,Odisha,Bhubaneswar
+94,XM1093,Xquizeet Ahmedabad Store 94,Tier-2 Store,12,15334,2018-12-05,West,Gujarat,Ahmedabad
+95,XM1094,Xquizeet Lucknow Store 95,Supermarket,2,1960,2021-01-10,North,Uttar Pradesh,Lucknow
+96,XM1095,Xquizeet Pune Store 96,Outlet,10,19611,2018-08-04,West,Maharashtra,Pune
+97,XM1096,Xquizeet Noida Store 97,Supermarket,4,4320,2024-10-08,North,Uttar Pradesh,Noida
+98,XM1097,Xquizeet Panaji Store 98,Tier-2 Store,14,1201,2024-12-18,West,Goa,Panaji
+99,XM1098,Xquizeet Bhopal Store 99,Tier-2 Store,16,13368,2023-04-14,West,Madhya Pradesh,Bhopal
+100,XM1099,Xquizeet Indore Store 100,Hypermarket,15,17890,2017-06-03,West,Madhya Pradesh,Indore
+101,XM1100,Xquizeet Jaipur Store 101,Supermarket,8,20454,2021-08-07,North,Rajasthan,Jaipur
+102,XM1101,Xquizeet Panaji Store 102,Express,14,1599,2019-09-24,West,Goa,Panaji
+103,XM1102,Xquizeet Kochi Store 103,Tier-2 Store,23,22372,2024-07-07,South,Kerala,Kochi
+104,XM1103,Xquizeet Ranchi Store 104,Supermarket,28,26615,2020-05-28,East,Jharkhand,Ranchi
+105,XM1104,Xquizeet Kolkata Store 105,Hypermarket,25,1090,2019-12-29,East,West Bengal,Kolkata
+106,XM1105,Xquizeet Jaipur Store 106,Express,8,11392,2019-10-06,North,Rajasthan,Jaipur
+107,XM1106,Xquizeet Hyderabad Store 107,Tier-2 Store,21,18264,2022-11-12,South,Telangana,Hyderabad
+108,XM1107,Xquizeet Bhopal Store 108,Supermarket,16,3875,2021-11-09,West,Madhya Pradesh,Bhopal
+109,XM1108,Xquizeet Surat Store 109,Hypermarket,13,7002,2019-08-16,West,Gujarat,Surat
+110,XM1109,Xquizeet Mysuru Store 110,Outlet,18,18468,2018-03-29,South,Karnataka,Mysuru
+111,XM1110,Xquizeet Indore Store 111,Supermarket,15,20611,2020-05-12,West,Madhya Pradesh,Indore
+112,XM1111,Xquizeet Hyderabad Store 112,Supermarket,21,20678,2023-03-16,South,Telangana,Hyderabad
+113,XM1112,Xquizeet Thiruvananthapuram Store 113,Tier-2 Store,24,25603,2023-11-27,South,Kerala,Thiruvananthapuram
+114,XM1113,Xquizeet Bhubaneswar Store 114,Express,26,27541,2023-10-16,East,Odisha,Bhubaneswar
+115,XM1114,Xquizeet Kolkata Store 115,Express,25,2716,2023-07-17,East,West Bengal,Kolkata
+116,XM1115,Xquizeet Ranchi Store 116,Hypermarket,28,23138,2018-07-05,East,Jharkhand,Ranchi
+117,XM1116,Xquizeet Ranchi Store 117,Supermarket,28,23993,2021-06-24,East,Jharkhand,Ranchi
+118,XM1117,Xquizeet Ranchi Store 118,Express,28,1469,2020-08-05,East,Jharkhand,Ranchi
+119,XM1118,Xquizeet Surat Store 119,Hypermarket,13,6342,2021-10-24,West,Gujarat,Surat
+120,XM1119,Xquizeet Mumbai Store 120,Hypermarket,9,2795,2017-12-23,West,Maharashtra,Mumbai

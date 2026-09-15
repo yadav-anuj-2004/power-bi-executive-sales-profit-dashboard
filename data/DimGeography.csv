@@ -1,0 +1,30 @@
+GeographyKey,Region,State,City,StateStandard
+1,North,Delhi,Delhi,Delhi
+2,North,Uttar Pradesh,Lucknow,Uttar Pradesh
+3,North,Uttar Pradesh,Kanpur,Uttar Pradesh
+4,North,Uttar Pradesh,Noida,Uttar Pradesh
+5,North,Uttar Pradesh,Varanasi,Uttar Pradesh
+6,North,Haryana,Gurugram,Haryana
+7,North,Punjab,Ludhiana,Punjab
+8,North,Rajasthan,Jaipur,Rajasthan
+9,West,Maharashtra,Mumbai,Maharashtra
+10,West,Maharashtra,Pune,Maharashtra
+11,West,Maharashtra,Nagpur,Maharashtra
+12,West,Gujarat,Ahmedabad,Gujarat
+13,West,Gujarat,Surat,Gujarat
+14,West,Goa,Panaji,Goa
+15,West,Madhya Pradesh,Indore,Madhya Pradesh
+16,West,Madhya Pradesh,Bhopal,Madhya Pradesh
+17,South,Karnataka,Bengaluru,Karnataka
+18,South,Karnataka,Mysuru,Karnataka
+19,South,Tamil Nadu,Chennai,Tamil Nadu
+20,South,Tamil Nadu,Coimbatore,Tamil Nadu
+21,South,Telangana,Hyderabad,Telangana
+22,South,Andhra Pradesh,Vijayawada,Andhra Pradesh
+23,South,Kerala,Kochi,Kerala
+24,South,Kerala,Thiruvananthapuram,Kerala
+25,East,West Bengal,Kolkata,West Bengal
+26,East,Odisha,Bhubaneswar,Odisha
+27,East,Bihar,Patna,Bihar
+28,East,Jharkhand,Ranchi,Jharkhand
+29,Central,Chhattisgarh,Raipur,Chhattisgarh

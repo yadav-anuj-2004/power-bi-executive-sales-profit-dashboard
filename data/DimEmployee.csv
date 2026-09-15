@@ -1,0 +1,501 @@
+EmployeeKey,EmployeeID,EmployeeName,Role,StoreKey,HireDate,EmploymentStatus
+1,EMP10000,Employee 0001,Senior Sales Executive,23,2024-07-04,Active
+2,EMP10001,Employee 0002,Department Lead,10,2019-08-03,Active
+3,EMP10002,Employee 0003,Store Manager,118,2023-04-18,Active
+4,EMP10003,Employee 0004,Sales Executive,69,2021-10-12,Active
+5,EMP10004,Employee 0005,Senior Sales Executive,100,2021-07-14,Active
+6,EMP10005,Employee 0006,Senior Sales Executive,34,2022-06-29,Active
+7,EMP10006,Employee 0007,Sales Executive,52,2020-08-09,Active
+8,EMP10007,Employee 0008,Sales Executive,95,2020-09-14,Active
+9,EMP10008,Employee 0009,Sales Executive,10,2021-05-03,Active
+10,EMP10009,Employee 0010,Sales Executive,19,2020-07-09,Active
+11,EMP10010,Employee 0011,Sales Executive,58,2021-09-17,Active
+12,EMP10011,Employee 0012,Sales Executive,96,2018-06-19,Active
+13,EMP10012,Employee 0013,Sales Executive,1,2019-06-05,Active
+14,EMP10013,Employee 0014,Senior Sales Executive,120,2022-01-26,Active
+15,EMP10014,Employee 0015,Store Manager,69,2018-02-09,Active
+16,EMP10015,Employee 0016,Sales Executive,109,2022-04-10,Active
+17,EMP10016,Employee 0017,Sales Executive,4,2021-11-19,Active
+18,EMP10017,Employee 0018,Senior Sales Executive,16,2020-08-12,Active
+19,EMP10018,Employee 0019,Sales Executive,24,2020-09-10,Active
+20,EMP10019,Employee 0020,Sales Executive,80,2020-09-01,Active
+21,EMP10020,Employee 0021,Sales Executive,119,2018-02-07,Active
+22,EMP10021,Employee 0022,Sales Executive,2,2024-07-03,Active
+23,EMP10022,Employee 0023,Sales Executive,113,2021-06-28,Active
+24,EMP10023,Employee 0024,Sales Executive,92,2021-04-14,Active
+25,EMP10024,Employee 0025,Sales Executive,32,2022-06-14,Active
+26,EMP10025,Employee 0026,Sales Executive,91,2020-07-02,Active
+27,EMP10026,Employee 0027,Store Manager,84,2019-03-30,Active
+28,EMP10027,Employee 0028,Sales Executive,24,2018-02-06,Active
+29,EMP10028,Employee 0029,Sales Executive,12,2022-09-08,Active
+30,EMP10029,Employee 0030,Sales Executive,50,2020-03-06,Active
+31,EMP10030,Employee 0031,Sales Executive,35,2020-08-30,Active
+32,EMP10031,Employee 0032,Senior Sales Executive,33,2019-08-16,Active
+33,EMP10032,Employee 0033,Sales Executive,33,2021-02-11,Active
+34,EMP10033,Employee 0034,Sales Executive,61,2021-08-17,Active
+35,EMP10034,Employee 0035,Senior Sales Executive,51,2024-03-21,Active
+36,EMP10035,Employee 0036,Sales Executive,43,2018-11-14,Active
+37,EMP10036,Employee 0037,Store Manager,101,2024-07-24,Active
+38,EMP10037,Employee 0038,Sales Executive,12,2023-12-03,Active
+39,EMP10038,Employee 0039,Sales Executive,67,2021-09-08,Active
+40,EMP10039,Employee 0040,Senior Sales Executive,65,2022-05-11,Active
+41,EMP10040,Employee 0041,Sales Executive,33,2023-03-05,Active
+42,EMP10041,Employee 0042,Sales Executive,40,2023-09-19,Active
+43,EMP10042,Employee 0043,Sales Executive,74,2023-06-20,Active
+44,EMP10043,Employee 0044,Sales Executive,43,2022-11-08,Active
+45,EMP10044,Employee 0045,Sales Executive,44,2021-08-05,Active
+46,EMP10045,Employee 0046,Sales Executive,29,2021-07-09,Active
+47,EMP10046,Employee 0047,Sales Executive,13,2018-08-04,Active
+48,EMP10047,Employee 0048,Department Lead,12,2024-07-11,Active
+49,EMP10048,Employee 0049,Sales Executive,95,2023-11-10,Active
+50,EMP10049,Employee 0050,Sales Executive,46,2024-07-28,Active
+51,EMP10050,Employee 0051,Sales Executive,2,2022-09-01,Active
+52,EMP10051,Employee 0052,Sales Executive,115,2018-12-29,Active
+53,EMP10052,Employee 0053,Sales Executive,114,2022-09-13,Active
+54,EMP10053,Employee 0054,Sales Executive,35,2021-04-08,Active
+55,EMP10054,Employee 0055,Sales Executive,87,2018-12-22,Active
+56,EMP10055,Employee 0056,Sales Executive,81,2018-07-10,Active
+57,EMP10056,Employee 0057,Sales Executive,90,2024-10-05,Active
+58,EMP10057,Employee 0058,Senior Sales Executive,8,2019-12-01,Active
+59,EMP10058,Employee 0059,Store Manager,93,2023-08-17,Active
+60,EMP10059,Employee 0060,Sales Executive,26,2023-12-21,Active
+61,EMP10060,Employee 0061,Sales Executive,74,2019-07-11,Active
+62,EMP10061,Employee 0062,Department Lead,90,2020-04-05,Active
+63,EMP10062,Employee 0063,Sales Executive,34,2020-11-20,Active
+64,EMP10063,Employee 0064,Sales Executive,115,2019-03-02,Active
+65,EMP10064,Employee 0065,Department Lead,105,2024-08-07,Active
+66,EMP10065,Employee 0066,Senior Sales Executive,7,2022-04-24,Active
+67,EMP10066,Employee 0067,Senior Sales Executive,68,2023-10-31,Active
+68,EMP10067,Employee 0068,Sales Executive,58,2024-07-31,Active
+69,EMP10068,Employee 0069,Sales Executive,117,2019-08-12,Active
+70,EMP10069,Employee 0070,Sales Executive,114,2023-07-06,Active
+71,EMP10070,Employee 0071,Department Lead,109,2022-03-28,Active
+72,EMP10071,Employee 0072,Sales Executive,75,2018-10-22,Active
+73,EMP10072,Employee 0073,Sales Executive,29,2023-06-09,Active
+74,EMP10073,Employee 0074,Sales Executive,120,2021-06-01,Active
+75,EMP10074,Employee 0075,Senior Sales Executive,36,2022-03-29,Active
+76,EMP10075,Employee 0076,Sales Executive,89,2022-08-18,Active
+77,EMP10076,Employee 0077,Sales Executive,21,2021-02-10,Active
+78,EMP10077,Employee 0078,Sales Executive,36,2021-06-10,Active
+79,EMP10078,Employee 0079,Sales Executive,10,2023-08-27,Active
+80,EMP10079,Employee 0080,Sales Executive,101,2018-12-26,Active
+81,EMP10080,Employee 0081,Sales Executive,73,2019-12-01,Active
+82,EMP10081,Employee 0082,Sales Executive,24,2019-03-24,Active
+83,EMP10082,Employee 0083,Sales Executive,64,2024-08-09,Active
+84,EMP10083,Employee 0084,Sales Executive,99,2019-11-06,Active
+85,EMP10084,Employee 0085,Sales Executive,49,2020-10-04,Active
+86,EMP10085,Employee 0086,Sales Executive,99,2021-09-11,Active
+87,EMP10086,Employee 0087,Sales Executive,112,2024-11-19,Active
+88,EMP10087,Employee 0088,Store Manager,36,2024-09-27,Active
+89,EMP10088,Employee 0089,Sales Executive,82,2019-08-09,Active
+90,EMP10089,Employee 0090,Sales Executive,113,2021-06-10,Active
+91,EMP10090,Employee 0091,Store Manager,103,2021-06-01,Active
+92,EMP10091,Employee 0092,Department Lead,96,2020-09-20,Active
+93,EMP10092,Employee 0093,Sales Executive,24,2021-12-06,Active
+94,EMP10093,Employee 0094,Senior Sales Executive,23,2019-07-26,Active
+95,EMP10094,Employee 0095,Sales Executive,62,2024-07-10,Active
+96,EMP10095,Employee 0096,Sales Executive,96,2021-05-30,Active
+97,EMP10096,Employee 0097,Senior Sales Executive,37,2023-09-16,Active
+98,EMP10097,Employee 0098,Sales Executive,12,2020-09-15,Active
+99,EMP10098,Employee 0099,Sales Executive,113,2018-10-05,Active
+100,EMP10099,Employee 0100,Sales Executive,55,2021-05-04,Active
+101,EMP10100,Employee 0101,Sales Executive,13,2023-03-03,Active
+102,EMP10101,Employee 0102,Department Lead,23,2019-04-29,Active
+103,EMP10102,Employee 0103,Senior Sales Executive,89,2021-06-19,Active
+104,EMP10103,Employee 0104,Department Lead,99,2020-01-01,Active
+105,EMP10104,Employee 0105,Sales Executive,105,2024-02-18,Active
+106,EMP10105,Employee 0106,Senior Sales Executive,30,2020-11-06,Active
+107,EMP10106,Employee 0107,Department Lead,17,2020-07-06,Active
+108,EMP10107,Employee 0108,Sales Executive,113,2024-09-14,Active
+109,EMP10108,Employee 0109,Store Manager,62,2020-06-04,Active
+110,EMP10109,Employee 0110,Senior Sales Executive,84,2018-01-22,Active
+111,EMP10110,Employee 0111,Sales Executive,112,2019-04-19,Active
+112,EMP10111,Employee 0112,Senior Sales Executive,89,2024-03-07,Active
+113,EMP10112,Employee 0113,Sales Executive,86,2024-06-11,Active
+114,EMP10113,Employee 0114,Senior Sales Executive,13,2019-12-05,Active
+115,EMP10114,Employee 0115,Sales Executive,59,2019-11-18,Active
+116,EMP10115,Employee 0116,Sales Executive,19,2018-10-12,Active
+117,EMP10116,Employee 0117,Sales Executive,49,2019-12-17,Active
+118,EMP10117,Employee 0118,Senior Sales Executive,100,2020-02-02,Active
+119,EMP10118,Employee 0119,Sales Executive,12,2021-06-04,Active
+120,EMP10119,Employee 0120,Sales Executive,61,2020-08-05,Active
+121,EMP10120,Employee 0121,Sales Executive,105,2024-08-25,Active
+122,EMP10121,Employee 0122,Senior Sales Executive,19,2024-11-12,Active
+123,EMP10122,Employee 0123,Sales Executive,76,2020-10-27,Active
+124,EMP10123,Employee 0124,Senior Sales Executive,9,2018-01-29,Active
+125,EMP10124,Employee 0125,Sales Executive,71,2020-06-25,Active
+126,EMP10125,Employee 0126,Sales Executive,28,2023-10-28,Active
+127,EMP10126,Employee 0127,Sales Executive,78,2024-11-11,Active
+128,EMP10127,Employee 0128,Sales Executive,95,2019-07-24,Active
+129,EMP10128,Employee 0129,Senior Sales Executive,52,2023-06-30,Active
+130,EMP10129,Employee 0130,Sales Executive,83,2021-12-24,Active
+131,EMP10130,Employee 0131,Sales Executive,111,2020-01-08,Active
+132,EMP10131,Employee 0132,Senior Sales Executive,16,2019-05-31,Active
+133,EMP10132,Employee 0133,Sales Executive,117,2023-06-24,Active
+134,EMP10133,Employee 0134,Sales Executive,69,2024-09-10,Active
+135,EMP10134,Employee 0135,Department Lead,99,2018-02-08,Active
+136,EMP10135,Employee 0136,Sales Executive,12,2020-06-05,Active
+137,EMP10136,Employee 0137,Sales Executive,25,2024-01-14,Active
+138,EMP10137,Employee 0138,Department Lead,52,2021-01-03,Active
+139,EMP10138,Employee 0139,Sales Executive,85,2022-12-29,Active
+140,EMP10139,Employee 0140,Sales Executive,100,2022-09-07,Active
+141,EMP10140,Employee 0141,Sales Executive,53,2020-08-31,Active
+142,EMP10141,Employee 0142,Senior Sales Executive,23,2022-04-12,Active
+143,EMP10142,Employee 0143,Sales Executive,16,2020-09-15,Active
+144,EMP10143,Employee 0144,Sales Executive,57,2018-01-21,Active
+145,EMP10144,Employee 0145,Senior Sales Executive,39,2024-06-08,Active
+146,EMP10145,Employee 0146,Senior Sales Executive,109,2020-05-18,Active
+147,EMP10146,Employee 0147,Sales Executive,53,2018-03-25,Active
+148,EMP10147,Employee 0148,Sales Executive,42,2022-08-10,Active
+149,EMP10148,Employee 0149,Sales Executive,58,2023-05-31,Active
+150,EMP10149,Employee 0150,Senior Sales Executive,39,2021-11-11,Active
+151,EMP10150,Employee 0151,Store Manager,14,2022-03-11,Active
+152,EMP10151,Employee 0152,Sales Executive,95,2019-07-24,Active
+153,EMP10152,Employee 0153,Senior Sales Executive,5,2020-07-22,Active
+154,EMP10153,Employee 0154,Senior Sales Executive,35,2023-06-04,Active
+155,EMP10154,Employee 0155,Sales Executive,87,2023-01-30,Active
+156,EMP10155,Employee 0156,Senior Sales Executive,93,2020-03-03,Active
+157,EMP10156,Employee 0157,Sales Executive,107,2020-03-02,Active
+158,EMP10157,Employee 0158,Senior Sales Executive,75,2022-12-15,Active
+159,EMP10158,Employee 0159,Sales Executive,18,2021-07-18,Active
+160,EMP10159,Employee 0160,Sales Executive,111,2024-12-14,Active
+161,EMP10160,Employee 0161,Senior Sales Executive,76,2024-03-05,Active
+162,EMP10161,Employee 0162,Sales Executive,9,2022-05-27,Active
+163,EMP10162,Employee 0163,Sales Executive,74,2020-12-19,Active
+164,EMP10163,Employee 0164,Senior Sales Executive,58,2024-10-13,Active
+165,EMP10164,Employee 0165,Senior Sales Executive,108,2020-09-11,Active
+166,EMP10165,Employee 0166,Sales Executive,17,2022-08-08,Active
+167,EMP10166,Employee 0167,Sales Executive,102,2019-06-04,Active
+168,EMP10167,Employee 0168,Sales Executive,7,2019-08-14,Active
+169,EMP10168,Employee 0169,Sales Executive,46,2020-11-16,Active
+170,EMP10169,Employee 0170,Sales Executive,13,2022-09-06,Active
+171,EMP10170,Employee 0171,Sales Executive,40,2023-07-29,Active
+172,EMP10171,Employee 0172,Department Lead,42,2024-02-25,Active
+173,EMP10172,Employee 0173,Sales Executive,9,2024-08-31,Active
+174,EMP10173,Employee 0174,Sales Executive,50,2018-12-15,Active
+175,EMP10174,Employee 0175,Sales Executive,27,2020-08-17,Active
+176,EMP10175,Employee 0176,Department Lead,66,2023-05-18,Active
+177,EMP10176,Employee 0177,Sales Executive,5,2019-11-24,Active
+178,EMP10177,Employee 0178,Sales Executive,29,2022-04-09,Active
+179,EMP10178,Employee 0179,Sales Executive,37,2019-01-13,Active
+180,EMP10179,Employee 0180,Sales Executive,38,2019-06-11,Active
+181,EMP10180,Employee 0181,Store Manager,83,2024-03-03,Active
+182,EMP10181,Employee 0182,Senior Sales Executive,8,2024-11-07,Active
+183,EMP10182,Employee 0183,Department Lead,112,2021-06-13,Active
+184,EMP10183,Employee 0184,Sales Executive,109,2023-02-19,Active
+185,EMP10184,Employee 0185,Sales Executive,65,2022-10-30,Active
+186,EMP10185,Employee 0186,Department Lead,86,2019-06-05,Active
+187,EMP10186,Employee 0187,Sales Executive,116,2022-08-29,Active
+188,EMP10187,Employee 0188,Sales Executive,17,2020-10-13,Active
+189,EMP10188,Employee 0189,Sales Executive,71,2020-10-10,Active
+190,EMP10189,Employee 0190,Sales Executive,89,2024-12-23,Active
+191,EMP10190,Employee 0191,Sales Executive,45,2018-04-27,Active
+192,EMP10191,Employee 0192,Senior Sales Executive,4,2024-08-30,Active
+193,EMP10192,Employee 0193,Department Lead,36,2021-09-29,Active
+194,EMP10193,Employee 0194,Department Lead,70,2019-08-07,Active
+195,EMP10194,Employee 0195,Sales Executive,31,2019-01-30,Active
+196,EMP10195,Employee 0196,Sales Executive,19,2020-12-23,Active
+197,EMP10196,Employee 0197,Department Lead,61,2018-03-13,Active
+198,EMP10197,Employee 0198,Senior Sales Executive,108,2018-10-01,Active
+199,EMP10198,Employee 0199,Sales Executive,54,2023-07-07,Active
+200,EMP10199,Employee 0200,Department Lead,39,2021-09-05,Active
+201,EMP10200,Employee 0201,Senior Sales Executive,91,2018-12-04,Active
+202,EMP10201,Employee 0202,Sales Executive,74,2021-10-21,Active
+203,EMP10202,Employee 0203,Sales Executive,90,2019-08-30,Active
+204,EMP10203,Employee 0204,Sales Executive,19,2018-06-15,Active
+205,EMP10204,Employee 0205,Store Manager,39,2022-04-17,Active
+206,EMP10205,Employee 0206,Sales Executive,67,2023-08-21,Active
+207,EMP10206,Employee 0207,Senior Sales Executive,45,2021-08-17,Active
+208,EMP10207,Employee 0208,Store Manager,13,2019-12-30,Active
+209,EMP10208,Employee 0209,Sales Executive,114,2023-08-06,Active
+210,EMP10209,Employee 0210,Sales Executive,92,2018-04-12,Active
+211,EMP10210,Employee 0211,Sales Executive,58,2021-11-16,Active
+212,EMP10211,Employee 0212,Department Lead,20,2020-02-18,Active
+213,EMP10212,Employee 0213,Sales Executive,92,2018-08-02,Active
+214,EMP10213,Employee 0214,Sales Executive,72,2021-01-16,Active
+215,EMP10214,Employee 0215,Senior Sales Executive,61,2022-04-26,Active
+216,EMP10215,Employee 0216,Sales Executive,105,2024-09-14,Active
+217,EMP10216,Employee 0217,Sales Executive,39,2022-08-23,Active
+218,EMP10217,Employee 0218,Sales Executive,1,2019-08-15,Active
+219,EMP10218,Employee 0219,Sales Executive,3,2021-08-26,Active
+220,EMP10219,Employee 0220,Sales Executive,77,2021-01-14,Active
+221,EMP10220,Employee 0221,Sales Executive,92,2023-11-10,Active
+222,EMP10221,Employee 0222,Sales Executive,62,2019-12-15,Active
+223,EMP10222,Employee 0223,Department Lead,63,2020-07-24,Active
+224,EMP10223,Employee 0224,Sales Executive,113,2023-05-06,Active
+225,EMP10224,Employee 0225,Sales Executive,25,2018-08-30,Active
+226,EMP10225,Employee 0226,Sales Executive,56,2023-08-06,Active
+227,EMP10226,Employee 0227,Store Manager,33,2018-01-02,Active
+228,EMP10227,Employee 0228,Sales Executive,38,2024-03-22,Active
+229,EMP10228,Employee 0229,Sales Executive,117,2022-11-04,Active
+230,EMP10229,Employee 0230,Department Lead,6,2023-05-04,Active
+231,EMP10230,Employee 0231,Sales Executive,58,2023-12-04,Active
+232,EMP10231,Employee 0232,Sales Executive,44,2020-07-06,Active
+233,EMP10232,Employee 0233,Store Manager,45,2024-02-20,Active
+234,EMP10233,Employee 0234,Department Lead,32,2018-03-31,Active
+235,EMP10234,Employee 0235,Sales Executive,45,2022-09-06,Active
+236,EMP10235,Employee 0236,Sales Executive,61,2023-12-10,Active
+237,EMP10236,Employee 0237,Store Manager,47,2018-05-23,Active
+238,EMP10237,Employee 0238,Senior Sales Executive,21,2018-04-16,Active
+239,EMP10238,Employee 0239,Sales Executive,80,2020-06-05,Active
+240,EMP10239,Employee 0240,Senior Sales Executive,118,2019-03-04,Active
+241,EMP10240,Employee 0241,Sales Executive,85,2021-08-21,Active
+242,EMP10241,Employee 0242,Sales Executive,75,2023-03-11,Active
+243,EMP10242,Employee 0243,Store Manager,101,2023-06-18,Active
+244,EMP10243,Employee 0244,Sales Executive,36,2018-11-13,Active
+245,EMP10244,Employee 0245,Sales Executive,99,2023-06-10,Active
+246,EMP10245,Employee 0246,Store Manager,19,2019-09-27,Active
+247,EMP10246,Employee 0247,Senior Sales Executive,20,2023-04-10,Active
+248,EMP10247,Employee 0248,Sales Executive,57,2023-08-19,Active
+249,EMP10248,Employee 0249,Sales Executive,18,2024-03-20,Active
+250,EMP10249,Employee 0250,Sales Executive,47,2021-12-10,Active
+251,EMP10250,Employee 0251,Sales Executive,105,2019-07-07,Active
+252,EMP10251,Employee 0252,Sales Executive,49,2019-12-17,Active
+253,EMP10252,Employee 0253,Sales Executive,14,2021-07-11,Active
+254,EMP10253,Employee 0254,Sales Executive,15,2022-09-10,Active
+255,EMP10254,Employee 0255,Senior Sales Executive,31,2023-02-27,Active
+256,EMP10255,Employee 0256,Department Lead,1,2021-01-12,Active
+257,EMP10256,Employee 0257,Sales Executive,117,2021-09-03,Active
+258,EMP10257,Employee 0258,Sales Executive,54,2018-04-21,Active
+259,EMP10258,Employee 0259,Sales Executive,118,2018-09-08,Active
+260,EMP10259,Employee 0260,Sales Executive,3,2024-08-27,Active
+261,EMP10260,Employee 0261,Store Manager,16,2023-08-17,Active
+262,EMP10261,Employee 0262,Sales Executive,87,2019-04-04,Active
+263,EMP10262,Employee 0263,Sales Executive,57,2021-01-12,Active
+264,EMP10263,Employee 0264,Sales Executive,75,2018-07-27,Active
+265,EMP10264,Employee 0265,Store Manager,12,2020-06-18,Active
+266,EMP10265,Employee 0266,Sales Executive,74,2018-01-22,Active
+267,EMP10266,Employee 0267,Sales Executive,96,2019-02-14,Active
+268,EMP10267,Employee 0268,Sales Executive,16,2020-06-13,Active
+269,EMP10268,Employee 0269,Store Manager,72,2019-05-30,Active
+270,EMP10269,Employee 0270,Sales Executive,102,2020-03-19,Active
+271,EMP10270,Employee 0271,Senior Sales Executive,76,2020-05-23,Active
+272,EMP10271,Employee 0272,Sales Executive,24,2018-01-14,Active
+273,EMP10272,Employee 0273,Sales Executive,28,2020-08-28,Active
+274,EMP10273,Employee 0274,Sales Executive,117,2023-11-05,Active
+275,EMP10274,Employee 0275,Store Manager,8,2022-04-10,Active
+276,EMP10275,Employee 0276,Sales Executive,92,2021-08-17,Active
+277,EMP10276,Employee 0277,Senior Sales Executive,36,2021-06-20,Active
+278,EMP10277,Employee 0278,Senior Sales Executive,90,2023-12-10,Active
+279,EMP10278,Employee 0279,Senior Sales Executive,8,2020-01-20,Active
+280,EMP10279,Employee 0280,Sales Executive,58,2019-11-16,Active
+281,EMP10280,Employee 0281,Sales Executive,60,2023-04-12,Active
+282,EMP10281,Employee 0282,Sales Executive,50,2024-06-14,Active
+283,EMP10282,Employee 0283,Sales Executive,28,2019-11-26,Active
+284,EMP10283,Employee 0284,Senior Sales Executive,92,2024-05-24,Active
+285,EMP10284,Employee 0285,Store Manager,101,2018-11-03,Active
+286,EMP10285,Employee 0286,Store Manager,41,2023-06-13,Active
+287,EMP10286,Employee 0287,Sales Executive,100,2019-10-24,Active
+288,EMP10287,Employee 0288,Store Manager,64,2019-07-03,Active
+289,EMP10288,Employee 0289,Sales Executive,27,2018-11-08,Active
+290,EMP10289,Employee 0290,Sales Executive,118,2020-12-18,Active
+291,EMP10290,Employee 0291,Sales Executive,63,2022-10-04,Active
+292,EMP10291,Employee 0292,Senior Sales Executive,17,2020-01-25,Active
+293,EMP10292,Employee 0293,Senior Sales Executive,73,2018-02-04,Active
+294,EMP10293,Employee 0294,Sales Executive,33,2019-03-21,Active
+295,EMP10294,Employee 0295,Sales Executive,117,2023-11-11,Active
+296,EMP10295,Employee 0296,Sales Executive,84,2023-06-06,Active
+297,EMP10296,Employee 0297,Sales Executive,77,2021-05-15,Active
+298,EMP10297,Employee 0298,Sales Executive,92,2018-12-19,Active
+299,EMP10298,Employee 0299,Sales Executive,112,2020-06-21,Active
+300,EMP10299,Employee 0300,Sales Executive,29,2021-09-17,Active
+301,EMP10300,Employee 0301,Sales Executive,13,2022-10-15,Active
+302,EMP10301,Employee 0302,Sales Executive,46,2018-06-08,Active
+303,EMP10302,Employee 0303,Sales Executive,35,2023-06-01,Active
+304,EMP10303,Employee 0304,Department Lead,6,2020-08-14,Active
+305,EMP10304,Employee 0305,Senior Sales Executive,82,2023-09-03,Active
+306,EMP10305,Employee 0306,Sales Executive,115,2019-02-08,Active
+307,EMP10306,Employee 0307,Senior Sales Executive,69,2019-05-31,Active
+308,EMP10307,Employee 0308,Sales Executive,47,2021-10-19,Active
+309,EMP10308,Employee 0309,Senior Sales Executive,25,2020-08-13,Active
+310,EMP10309,Employee 0310,Senior Sales Executive,66,2024-01-09,Active
+311,EMP10310,Employee 0311,Sales Executive,10,2022-09-09,Active
+312,EMP10311,Employee 0312,Store Manager,56,2019-08-31,Active
+313,EMP10312,Employee 0313,Sales Executive,30,2024-10-03,Active
+314,EMP10313,Employee 0314,Sales Executive,114,2021-06-27,Active
+315,EMP10314,Employee 0315,Sales Executive,109,2022-03-16,Active
+316,EMP10315,Employee 0316,Sales Executive,5,2024-07-10,Active
+317,EMP10316,Employee 0317,Sales Executive,119,2021-12-12,Active
+318,EMP10317,Employee 0318,Senior Sales Executive,120,2022-12-03,Active
+319,EMP10318,Employee 0319,Department Lead,33,2018-10-22,Active
+320,EMP10319,Employee 0320,Sales Executive,118,2020-01-25,Active
+321,EMP10320,Employee 0321,Sales Executive,65,2021-10-26,Active
+322,EMP10321,Employee 0322,Sales Executive,18,2018-07-05,Active
+323,EMP10322,Employee 0323,Store Manager,96,2021-06-23,Active
+324,EMP10323,Employee 0324,Department Lead,111,2019-09-29,Active
+325,EMP10324,Employee 0325,Sales Executive,49,2021-07-15,Active
+326,EMP10325,Employee 0326,Sales Executive,11,2019-06-14,Active
+327,EMP10326,Employee 0327,Sales Executive,85,2023-08-31,Active
+328,EMP10327,Employee 0328,Sales Executive,26,2020-03-04,Active
+329,EMP10328,Employee 0329,Sales Executive,63,2023-11-18,Active
+330,EMP10329,Employee 0330,Senior Sales Executive,89,2019-04-23,Active
+331,EMP10330,Employee 0331,Sales Executive,86,2022-06-11,Active
+332,EMP10331,Employee 0332,Store Manager,59,2020-07-28,Active
+333,EMP10332,Employee 0333,Sales Executive,27,2019-06-10,Active
+334,EMP10333,Employee 0334,Department Lead,49,2024-07-09,Active
+335,EMP10334,Employee 0335,Senior Sales Executive,77,2018-01-02,Active
+336,EMP10335,Employee 0336,Sales Executive,33,2019-01-10,Active
+337,EMP10336,Employee 0337,Sales Executive,98,2024-05-29,Active
+338,EMP10337,Employee 0338,Sales Executive,105,2019-07-07,Active
+339,EMP10338,Employee 0339,Sales Executive,99,2024-06-23,Active
+340,EMP10339,Employee 0340,Department Lead,1,2022-03-06,Active
+341,EMP10340,Employee 0341,Sales Executive,21,2023-01-26,Active
+342,EMP10341,Employee 0342,Sales Executive,112,2019-01-16,Active
+343,EMP10342,Employee 0343,Sales Executive,55,2022-07-05,Active
+344,EMP10343,Employee 0344,Store Manager,6,2018-01-14,Active
+345,EMP10344,Employee 0345,Sales Executive,92,2019-05-19,Active
+346,EMP10345,Employee 0346,Senior Sales Executive,81,2024-03-28,Active
+347,EMP10346,Employee 0347,Store Manager,69,2023-07-02,Active
+348,EMP10347,Employee 0348,Sales Executive,95,2018-05-10,Active
+349,EMP10348,Employee 0349,Sales Executive,5,2020-04-17,Active
+350,EMP10349,Employee 0350,Sales Executive,102,2023-08-03,Active
+351,EMP10350,Employee 0351,Sales Executive,3,2018-01-28,Active
+352,EMP10351,Employee 0352,Sales Executive,53,2023-10-15,Active
+353,EMP10352,Employee 0353,Sales Executive,23,2021-06-06,Active
+354,EMP10353,Employee 0354,Sales Executive,101,2018-09-18,Active
+355,EMP10354,Employee 0355,Sales Executive,53,2023-08-09,Active
+356,EMP10355,Employee 0356,Sales Executive,37,2022-01-12,Active
+357,EMP10356,Employee 0357,Sales Executive,74,2021-12-18,Active
+358,EMP10357,Employee 0358,Department Lead,74,2019-04-05,Active
+359,EMP10358,Employee 0359,Senior Sales Executive,83,2018-10-28,Active
+360,EMP10359,Employee 0360,Sales Executive,17,2024-05-23,Active
+361,EMP10360,Employee 0361,Store Manager,85,2019-09-22,Active
+362,EMP10361,Employee 0362,Sales Executive,78,2018-09-27,Active
+363,EMP10362,Employee 0363,Sales Executive,73,2023-06-17,Active
+364,EMP10363,Employee 0364,Store Manager,110,2022-06-17,Active
+365,EMP10364,Employee 0365,Sales Executive,1,2022-12-07,Active
+366,EMP10365,Employee 0366,Sales Executive,51,2020-05-11,Active
+367,EMP10366,Employee 0367,Sales Executive,45,2021-07-04,Active
+368,EMP10367,Employee 0368,Senior Sales Executive,77,2023-12-21,Active
+369,EMP10368,Employee 0369,Sales Executive,4,2022-12-05,Active
+370,EMP10369,Employee 0370,Store Manager,62,2022-09-03,Active
+371,EMP10370,Employee 0371,Senior Sales Executive,65,2024-06-18,Active
+372,EMP10371,Employee 0372,Sales Executive,113,2019-07-30,Active
+373,EMP10372,Employee 0373,Sales Executive,104,2023-06-27,Active
+374,EMP10373,Employee 0374,Sales Executive,32,2021-07-31,Active
+375,EMP10374,Employee 0375,Sales Executive,34,2023-05-11,Active
+376,EMP10375,Employee 0376,Senior Sales Executive,92,2023-07-14,Active
+377,EMP10376,Employee 0377,Senior Sales Executive,95,2024-01-22,Active
+378,EMP10377,Employee 0378,Sales Executive,72,2024-06-10,Active
+379,EMP10378,Employee 0379,Sales Executive,39,2022-07-14,Active
+380,EMP10379,Employee 0380,Sales Executive,26,2022-04-29,Active
+381,EMP10380,Employee 0381,Sales Executive,34,2023-01-22,Active
+382,EMP10381,Employee 0382,Store Manager,54,2024-01-13,Active
+383,EMP10382,Employee 0383,Department Lead,118,2021-10-22,Active
+384,EMP10383,Employee 0384,Sales Executive,3,2022-10-09,Active
+385,EMP10384,Employee 0385,Department Lead,50,2023-04-10,Active
+386,EMP10385,Employee 0386,Sales Executive,12,2019-09-12,Active
+387,EMP10386,Employee 0387,Sales Executive,65,2021-06-28,Active
+388,EMP10387,Employee 0388,Sales Executive,54,2020-08-14,Active
+389,EMP10388,Employee 0389,Senior Sales Executive,108,2023-04-24,Active
+390,EMP10389,Employee 0390,Senior Sales Executive,5,2024-07-09,Active
+391,EMP10390,Employee 0391,Senior Sales Executive,94,2020-08-26,Active
+392,EMP10391,Employee 0392,Sales Executive,94,2021-08-09,Active
+393,EMP10392,Employee 0393,Sales Executive,57,2020-11-09,Active
+394,EMP10393,Employee 0394,Senior Sales Executive,17,2018-10-09,Active
+395,EMP10394,Employee 0395,Sales Executive,112,2023-12-07,Active
+396,EMP10395,Employee 0396,Sales Executive,47,2020-11-24,Active
+397,EMP10396,Employee 0397,Sales Executive,23,2018-07-17,Active
+398,EMP10397,Employee 0398,Department Lead,79,2024-12-07,Active
+399,EMP10398,Employee 0399,Department Lead,101,2020-12-18,Active
+400,EMP10399,Employee 0400,Store Manager,85,2021-03-30,Active
+401,EMP10400,Employee 0401,Sales Executive,14,2020-10-05,Active
+402,EMP10401,Employee 0402,Department Lead,66,2021-05-14,Active
+403,EMP10402,Employee 0403,Sales Executive,75,2020-11-01,Active
+404,EMP10403,Employee 0404,Sales Executive,51,2019-05-05,Active
+405,EMP10404,Employee 0405,Department Lead,103,2018-10-03,Active
+406,EMP10405,Employee 0406,Store Manager,38,2024-04-08,Active
+407,EMP10406,Employee 0407,Sales Executive,64,2021-05-24,Active
+408,EMP10407,Employee 0408,Sales Executive,98,2021-06-28,Active
+409,EMP10408,Employee 0409,Department Lead,38,2018-05-06,Active
+410,EMP10409,Employee 0410,Department Lead,50,2018-08-05,Active
+411,EMP10410,Employee 0411,Department Lead,98,2021-04-23,Active
+412,EMP10411,Employee 0412,Sales Executive,82,2021-05-31,Active
+413,EMP10412,Employee 0413,Senior Sales Executive,30,2024-12-17,Active
+414,EMP10413,Employee 0414,Senior Sales Executive,79,2024-10-10,Active
+415,EMP10414,Employee 0415,Sales Executive,91,2020-07-07,Active
+416,EMP10415,Employee 0416,Senior Sales Executive,51,2021-08-10,Active
+417,EMP10416,Employee 0417,Store Manager,63,2024-01-08,Active
+418,EMP10417,Employee 0418,Sales Executive,98,2024-08-28,Active
+419,EMP10418,Employee 0419,Sales Executive,52,2022-07-20,Active
+420,EMP10419,Employee 0420,Sales Executive,38,2018-11-04,Active
+421,EMP10420,Employee 0421,Store Manager,97,2021-09-21,Active
+422,EMP10421,Employee 0422,Sales Executive,88,2023-05-24,Active
+423,EMP10422,Employee 0423,Sales Executive,79,2020-06-10,Active
+424,EMP10423,Employee 0424,Senior Sales Executive,30,2019-01-10,Active
+425,EMP10424,Employee 0425,Store Manager,119,2023-07-27,Active
+426,EMP10425,Employee 0426,Sales Executive,106,2021-09-26,Active
+427,EMP10426,Employee 0427,Sales Executive,51,2018-05-09,Active
+428,EMP10427,Employee 0428,Senior Sales Executive,81,2020-10-11,Active
+429,EMP10428,Employee 0429,Sales Executive,5,2022-12-05,Active
+430,EMP10429,Employee 0430,Sales Executive,29,2021-10-13,Active
+431,EMP10430,Employee 0431,Senior Sales Executive,4,2019-06-01,Active
+432,EMP10431,Employee 0432,Sales Executive,10,2022-02-27,Active
+433,EMP10432,Employee 0433,Sales Executive,56,2018-03-27,Active
+434,EMP10433,Employee 0434,Store Manager,17,2021-04-13,Active
+435,EMP10434,Employee 0435,Senior Sales Executive,74,2024-06-16,Active
+436,EMP10435,Employee 0436,Store Manager,17,2021-02-16,Active
+437,EMP10436,Employee 0437,Senior Sales Executive,84,2024-10-10,Active
+438,EMP10437,Employee 0438,Sales Executive,88,2023-06-17,Active
+439,EMP10438,Employee 0439,Department Lead,69,2023-12-02,Active
+440,EMP10439,Employee 0440,Senior Sales Executive,34,2018-10-30,Active
+441,EMP10440,Employee 0441,Department Lead,6,2019-08-11,Active
+442,EMP10441,Employee 0442,Sales Executive,53,2020-09-13,Active
+443,EMP10442,Employee 0443,Senior Sales Executive,66,2023-02-07,Active
+444,EMP10443,Employee 0444,Sales Executive,77,2018-12-11,Active
+445,EMP10444,Employee 0445,Sales Executive,107,2020-03-24,Active
+446,EMP10445,Employee 0446,Sales Executive,43,2023-06-11,Active
+447,EMP10446,Employee 0447,Senior Sales Executive,112,2021-08-03,Active
+448,EMP10447,Employee 0448,Department Lead,75,2023-06-23,Active
+449,EMP10448,Employee 0449,Senior Sales Executive,115,2022-08-05,Active
+450,EMP10449,Employee 0450,Sales Executive,111,2021-08-20,Active
+451,EMP10450,Employee 0451,Sales Executive,23,2020-12-28,Active
+452,EMP10451,Employee 0452,Senior Sales Executive,55,2024-08-05,Active
+453,EMP10452,Employee 0453,Sales Executive,80,2020-10-06,Active
+454,EMP10453,Employee 0454,Sales Executive,95,2019-12-05,Active
+455,EMP10454,Employee 0455,Sales Executive,75,2019-07-29,Active
+456,EMP10455,Employee 0456,Sales Executive,118,2022-05-28,Active
+457,EMP10456,Employee 0457,Sales Executive,16,2021-01-17,Active
+458,EMP10457,Employee 0458,Sales Executive,8,2019-11-19,Active
+459,EMP10458,Employee 0459,Store Manager,4,2019-05-04,Active
+460,EMP10459,Employee 0460,Store Manager,104,2021-09-09,Active
+461,EMP10460,Employee 0461,Department Lead,4,2019-05-09,Active
+462,EMP10461,Employee 0462,Sales Executive,56,2022-07-26,Active
+463,EMP10462,Employee 0463,Sales Executive,25,2022-06-26,Active
+464,EMP10463,Employee 0464,Sales Executive,67,2018-01-19,Active
+465,EMP10464,Employee 0465,Sales Executive,96,2024-09-10,Active
+466,EMP10465,Employee 0466,Department Lead,67,2020-09-27,Active
+467,EMP10466,Employee 0467,Senior Sales Executive,27,2020-04-30,Active
+468,EMP10467,Employee 0468,Store Manager,93,2021-10-20,Active
+469,EMP10468,Employee 0469,Sales Executive,32,2021-09-16,Active
+470,EMP10469,Employee 0470,Senior Sales Executive,50,2021-09-29,Active
+471,EMP10470,Employee 0471,Department Lead,61,2020-04-01,Active
+472,EMP10471,Employee 0472,Sales Executive,51,2019-03-31,Active
+473,EMP10472,Employee 0473,Sales Executive,19,2022-06-13,Active
+474,EMP10473,Employee 0474,Sales Executive,21,2019-12-12,Active
+475,EMP10474,Employee 0475,Department Lead,5,2023-12-31,Active
+476,EMP10475,Employee 0476,Sales Executive,82,2020-07-05,Active
+477,EMP10476,Employee 0477,Department Lead,92,2022-02-05,Active
+478,EMP10477,Employee 0478,Sales Executive,42,2021-12-11,Active
+479,EMP10478,Employee 0479,Sales Executive,61,2018-11-01,Active
+480,EMP10479,Employee 0480,Sales Executive,22,2020-01-06,Active
+481,EMP10480,Employee 0481,Sales Executive,21,2024-05-27,Active
+482,EMP10481,Employee 0482,Sales Executive,70,2023-05-18,Active
+483,EMP10482,Employee 0483,Sales Executive,1,2023-11-20,Active
+484,EMP10483,Employee 0484,Sales Executive,5,2023-07-03,Active
+485,EMP10484,Employee 0485,Senior Sales Executive,105,2020-08-19,Active
+486,EMP10485,Employee 0486,Sales Executive,12,2020-10-23,Active
+487,EMP10486,Employee 0487,Store Manager,90,2023-11-03,Active
+488,EMP10487,Employee 0488,Department Lead,46,2024-07-03,Active
+489,EMP10488,Employee 0489,Senior Sales Executive,34,2022-01-13,Active
+490,EMP10489,Employee 0490,Department Lead,49,2024-11-06,Active
+491,EMP10490,Employee 0491,Department Lead,78,2023-05-02,Active
+492,EMP10491,Employee 0492,Sales Executive,90,2021-03-23,Active
+493,EMP10492,Employee 0493,Sales Executive,45,2019-10-27,Active
+494,EMP10493,Employee 0494,Senior Sales Executive,27,2018-01-12,Active
+495,EMP10494,Employee 0495,Sales Executive,73,2021-03-02,Active
+496,EMP10495,Employee 0496,Sales Executive,26,2018-10-31,Active
+497,EMP10496,Employee 0497,Senior Sales Executive,47,2022-10-30,Active
+498,EMP10497,Employee 0498,Sales Executive,86,2018-02-12,Active
+499,EMP10498,Employee 0499,Sales Executive,111,2020-08-01,Active
+500,EMP10499,Employee 0500,Sales Executive,56,2024-07-18,Active

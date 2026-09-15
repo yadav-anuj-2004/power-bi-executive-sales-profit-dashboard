@@ -1,0 +1,8 @@
+PaymentMethodKey,PaymentMethod
+1,UPI
+2,Credit Card
+3,Debit Card
+4,Cash
+5,Net Banking
+6,Wallet
+7,EMI
